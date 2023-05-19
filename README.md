@@ -33,7 +33,7 @@
 ## Database
 I haven't used any Database in this project yet. But for data storing I have used a Collections.
 
-* private List<String> jokes
+* private ArrayList<String> jokeList
 ## Datastructures
 ArrayList<>
   
